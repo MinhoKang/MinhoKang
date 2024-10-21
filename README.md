@@ -1,3 +1,4 @@
+<main style={{width: 100, display: flex}}>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoKang)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhoKang&icons=true)
 <br/>
@@ -23,4 +24,5 @@
 <img src='https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 </div>
+</main>
 
