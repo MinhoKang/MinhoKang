@@ -1,6 +1,8 @@
 <main style={{width: 100, display: flex}}>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoKang)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhoKang&icons=true)
+
 <br/>
 <a href="https://github.com/devxb/gitanimals">
 <img
