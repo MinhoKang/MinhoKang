@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoKang)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoKang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhoKang&icons=true)
 <br/>
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -8,5 +9,4 @@
 />
 </a>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhoKang&icons=true)]
 
