@@ -1,4 +1,4 @@
-<main style={{width: 100, display: flex}}>
+{/* <main style={{width: 100, display: flex}}>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=KMH&fontSize=90&animation=fadeIn" />
   
@@ -29,4 +29,4 @@
 <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 </div>
 </main>
-
+ */}
